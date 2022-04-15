@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=E:\Khoa hoc BLockchain\FrontEnd_Blockchain\HackathonSpringNear\Week1\HelloNear\contract\target\wasm32-unknown-unknown\release\build\typenum-0092018f098c9d7d\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=E:\Khoa hoc BLockchain\FrontEnd_Blockchain\HackathonSpringNear\Week1\HelloNear\contract\target\wasm32-unknown-unknown\release\build\typenum-0092018f098c9d7d\out\op.rs

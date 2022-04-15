@@ -1,0 +1,1 @@
+E:\Khoa\ hoc\ BLockchain\FrontEnd_Blockchain\HackathonSpringNear\Week1\HelloNear\contract\target\wasm32-unknown-unknown\debug\greeter.wasm: E:\Khoa\ hoc\ BLockchain\FrontEnd_Blockchain\HackathonSpringNear\Week1\HelloNear\contract\src\lib.rs
